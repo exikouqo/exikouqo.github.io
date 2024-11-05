@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://exikouqo.github.io/KFp/sitemap_index.txt
+Sitemap: https://exikouqo.github.io/WMT/sitemap_index.txt
+Sitemap: https://exikouqo.github.io/pXT/sitemap_index.txt
+Sitemap: https://exikouqo.github.io/vBN/sitemap_index.txt
